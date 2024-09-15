@@ -16,3 +16,4 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 - Fix text shader not rendering correctly
 - Fix video
 - Fix water shader
+- Try to reduce audio quality a bit
