@@ -11,18 +11,8 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 - Make Bachelor Pad and Sushi map work.
 - Make Wetwork work with other levels and not individually.
 - Fix pink materials generally.
-- Fix frog minigame shader.
-- Fix Russian Consolate Ice Button.
-- Fix menu background (shader issue or just texture size ?)
-- Fix lightning at Intro Airport and Temple
 - Fix character not beeing visible in conduit (Intro)
 - Fix dash line being gray
-- Fix text shader nit rendering correctly
-- Fix frog headset material
-- Fix videos
-- Fix frog minigame joke material
-- Fix "Never take Placebex..." thing text making the game 2fps.
-- Fix microscope joke at lab material
-- Fix every journals materials
-- Fix cartridge material
+- Fix text shader not rendering correctly
+- Fix video
 - Fix water shader
