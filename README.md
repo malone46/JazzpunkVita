@@ -17,3 +17,11 @@ Last update: 09/21/24
 - Fix video
 - Fix water shader
 - Load System to implement
+
+# Sushi !
+- Fix pissing material
+- Cannot move at fugu cutscene end
+- Fix vase minigame (enable it ?)
+- Add restaurant ambience
+- Make spiders not laggy
+- 
