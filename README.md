@@ -20,9 +20,9 @@ Last update: 09/22/24
 - Fix video
 - Fix water shader
 - Load System to implement
+- Make hairs static
 
 # Sushi !
-- Make hairs static
-- Cannot move at fugu cutscene end (To experiment)
 - Fix vase minigame (enable it ?)
-- Make spiders not laggy
+- Make spiders not laggy (mostly done)
+- Fix colliders toilet doors
