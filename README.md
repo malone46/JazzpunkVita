@@ -7,7 +7,7 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 
 ![2024-09-15-093112](https://github.com/user-attachments/assets/a29d676d-a4a9-41ba-8cea-1d84d59b0596)
 
-Last update: 09/21/24
+Last update: 09/22/24
 
 # To-do:
 - Make Bachelor Pad map work.
@@ -19,9 +19,6 @@ Last update: 09/21/24
 - Load System to implement
 
 # Sushi !
-- Fix pissing material
-- Cannot move at fugu cutscene end
+- Cannot move at fugu cutscene end (To experiment)
 - Fix vase minigame (enable it ?)
-- Add restaurant ambience
 - Make spiders not laggy
-- 
