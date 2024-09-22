@@ -9,6 +9,9 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 
 Last update: 09/22/24
 
+# Legacy:
+- Setup
+  
 # To-do:
 - Make Bachelor Pad map work.
 - Make Wetwork work with other levels and not individually.
