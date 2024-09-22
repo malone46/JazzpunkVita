@@ -19,6 +19,7 @@ Last update: 09/22/24
 - Load System to implement
 
 # Sushi !
+- Make hairs static
 - Cannot move at fugu cutscene end (To experiment)
 - Fix vase minigame (enable it ?)
 - Make spiders not laggy
