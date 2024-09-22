@@ -1,5 +1,5 @@
 # Jazzpunk for Legacy Consoles
-Jazzpunk for the Playstation Vita, possibly Playstation 3 and Xbox 360. And more... ?
+Jazzpunk for the Playstation Vita, with future extensions for the Playstation 3, Xbox 360 and Wii U.
 
 ![2024-09-15-093239](https://github.com/user-attachments/assets/84276ca7-8af8-4c40-8c3f-b32b3cf42264)
 
@@ -21,8 +21,9 @@ Last update: 09/22/24
 - Fix water shader
 - Load System to implement
 - Make hairs static
+- Occlusion Culling !
 
 # Sushi !
 - Fix vase minigame (enable it ?)
 - Make spiders not laggy (mostly done)
-- Fix colliders toilet doors
+
