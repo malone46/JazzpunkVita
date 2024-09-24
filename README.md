@@ -21,7 +21,7 @@ Last update: 09/22/24
 - Fix water shader
 - Load System to implement
 - Make hairs static
-- Occlusion Culling !
+- Occlusion Culling ! (Mostly done)
 
 # Sushi !
 - Fix vase minigame (enable it ?)
