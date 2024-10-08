@@ -23,3 +23,5 @@ Last update: 10/08/24
 - Fix vase minigame (enable it ?)
 - Make spiders not laggy (mostly done)
 
+# Bachelor Pad
+- Fix black screen
