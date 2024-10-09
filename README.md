@@ -24,3 +24,5 @@ Last update: 10/08/24
 
 # Bachelor Pad
 - Fix black screen
+
+Port by MaloneCZSD.
