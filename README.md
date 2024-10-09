@@ -10,7 +10,6 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 Last update: 10/08/24
   
 # To-do:
-- Make Bachelor Pad map work.
 - Post-processing
 - Fix pink materials generally.
 - Fix character not beeing visible in conduit (Intro)
