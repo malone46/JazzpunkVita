@@ -8,21 +8,16 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 ![2024-09-15-093112](https://github.com/user-attachments/assets/a29d676d-a4a9-41ba-8cea-1d84d59b0596)
 
 Last update: 10/09/24
-  
+
 # To-do:
-- Post-processing
+- Unity 2017 to 5 migration
 - Fix pink materials generally.
-- Fix character not beeing visible in conduit (Intro)
 - Fix video
 - Fix water shader
 - Load System to implement
 - Make hairs static
 
-# Sushi !
-- Fix vase minigame (enable it ?)
+# Ikiyaki Alley
 - Make spiders not laggy (mostly done)
-
-# Bachelor Pad
-- Fix black screen
 
 Port by MaloneCZSD.
