@@ -10,7 +10,6 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 Last update: 10/09/24
 
 # To-do:
-- Unity 2017 to 5 migration
 - Fix pink materials generally.
 - Fix video
 - Fix water shader
@@ -19,5 +18,7 @@ Last update: 10/09/24
 
 # Ikiyaki Alley
 - Make spiders not laggy (mostly done)
+
+Navmesh...
 
 Port by MaloneCZSD.
