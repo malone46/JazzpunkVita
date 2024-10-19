@@ -7,7 +7,7 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 
 ![2024-09-15-093112](https://github.com/user-attachments/assets/a29d676d-a4a9-41ba-8cea-1d84d59b0596)
 
-Last update: 10/09/24
+Last update: 19/09/24
 
 # To-do:
 - Fix pink materials generally.
