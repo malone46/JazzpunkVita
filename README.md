@@ -10,7 +10,6 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 Last update: 03/11/24
 
 # To-do:
-- Swap to **Vertex Lighting**
 - GC Alloc at Intro
 - Fix pink materials generally.
 - Fix video
