@@ -20,5 +20,9 @@ Last update: 03/11/24
 
 # Ikiyaki Alley
 - Make spiders not laggy
+- Make the level work again
+
+# Bachelor Pad
+- Make the Navmesh work entirely
 
 Port by MaloneCZSD.
