@@ -7,10 +7,11 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 
 ![2024-09-15-093112](https://github.com/user-attachments/assets/a29d676d-a4a9-41ba-8cea-1d84d59b0596)
 
-Last update: 19/09/24
+Last update: 03/11/24
 
 # To-do:
-- Swap to **Vertex lighting**
+- Swap to **Vertex Lighting**
+- GC Alloc at Intro
 - Fix pink materials generally.
 - Fix video
 - Fix water shader
@@ -18,8 +19,6 @@ Last update: 19/09/24
 - Make hairs static
 
 # Ikiyaki Alley
-- Make spiders not laggy (mostly done)
-
-Navmesh...
+- Make spiders not laggy
 
 Port by MaloneCZSD.
