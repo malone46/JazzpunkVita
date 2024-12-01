@@ -10,17 +10,6 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 Last update: 03/11/24
 
 # To-do:
-- GC Alloc at Intro
-- Fix pink materials generally.
-- Fix video
-- Load System to implement
-- Make hairs static
-
-# Ikiyaki Alley
-- Make spiders not laggy
-- Make the level work again
-
-# Bachelor Pad
-- Make the Navmesh work entirely
+- Everything.
 
 Port by MaloneCZSD.
