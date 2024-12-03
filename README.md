@@ -36,7 +36,7 @@ Last update: 12/03/24 (US)
 - Need optimized water ([?](https://youtu.be/Jpu93wsYXeA)).
 
 # The Temple:
-- Nothing for the moment.
+- Need optimized water ([?](https://youtu.be/Jpu93wsYXeA)).
 
 # The Expedition:
 - Make videos work.
