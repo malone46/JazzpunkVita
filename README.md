@@ -16,7 +16,7 @@ Last update: 04/25/25 (US)
 # Every levels:
 - Make videos work using PS Vita Video System.
 - 
-# The Soviet Consulate:
+# Russian Consulate:
 - Remove PLACEBEX Gag falling text.
 
 # Builds:
