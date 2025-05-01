@@ -11,21 +11,13 @@ Last update: 04/25/25 (US)
 
 # To-do:
 - Fix some shaders.
+- Fix FPS
 
 # Every levels:
-- Continue to optimize lighting.
-- Static Batching.
-- Occlusion.
-
-# The Soviet Consulate:
 - Make videos work using PS Vita Video System.
+- 
+# The Soviet Consulate:
 - Remove PLACEBEX Gag falling text.
-
-# The Expedition:
-- Make videos work.
-
-# The Wetworks:
-- Make videos work.
 
 # Builds:
 - Patch system.
