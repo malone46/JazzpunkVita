@@ -9,17 +9,6 @@ Set in a retro-futuristic alternate Cold War reality, Jazzpunk is a single-playe
 
 Last update: 04/25/25 (US)
 
-# To-do:
-- Fix some shaders.
-- Fix FPS
-
-# Every levels:
-- Make videos work using PS Vita Video System.
-- 
-# Russian Consulate:
-- Remove PLACEBEX Gag falling text.
-
-# Builds:
-- Patch system.
+I WILL COMEBACK ON JAZZPUNK.
 
 Port by MaloneCZSD
